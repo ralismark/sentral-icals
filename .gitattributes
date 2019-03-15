@@ -1,0 +1,4 @@
+# Defaults
+* text=auto
+
+*.ical text eol=crlf
